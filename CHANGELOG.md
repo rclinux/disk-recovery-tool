@@ -145,4 +145,4 @@ major Linux families — **Arch, Debian, and Fedora** — and their derivatives.
 - Stale `docs/baremetal-test-checklist.md`, which documented the retired
   archiso recovery-ISO workflow (scripts no longer part of this project).
 
-[0.1.0]: https://github.com/rcraig57/disk-recovery-tool/releases/tag/v0.1.0
+[0.1.0]: https://github.com/rclinux/disk-recovery-tool/releases/tag/v0.1.0

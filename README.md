@@ -82,7 +82,7 @@ distro's package manager (`pacman` / `apt` / `dnf`), and copies the application
 into place.
 
 ```
-git clone https://github.com/rcraig57/disk-recovery-tool.git
+git clone https://github.com/rclinux/disk-recovery-tool.git
 cd disk-recovery-tool
 sudo ./install.sh
 ```
@@ -101,7 +101,7 @@ On Arch and Arch-based distros you can equally use the PKGBUILD, which pulls the
 dependencies and builds a tracked package:
 
 ```
-git clone https://github.com/rcraig57/disk-recovery-tool.git
+git clone https://github.com/rclinux/disk-recovery-tool.git
 cd disk-recovery-tool
 makepkg -si
 ```

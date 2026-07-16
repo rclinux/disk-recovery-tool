@@ -12,7 +12,7 @@
 # Generate AUR metadata:     makepkg --printsrcinfo > .SRCINFO
 
 # ----- set this to your repository's clone URL ------------------------------ #
-_repo="https://github.com/rcraig57/disk-recovery-tool.git"
+_repo="https://github.com/rclinux/disk-recovery-tool.git"
 # ---------------------------------------------------------------------------- #
 
 _pkgname=disk-recovery-tool
